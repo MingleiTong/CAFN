@@ -4,19 +4,23 @@ This is main code of the paper CAFN: The Combination of Atrous and Fractionally 
 
 Data Setup
 1. Download ShanghaiTech Dataset from
-Dropbox: https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0
-or
-Baidu Disk: http://pan.baidu.com/s/1nuAYslz
+
+   Dropbox: https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0
+
+   or
+   
+   Baidu Disk: http://pan.baidu.com/s/1nuAYslz
 
 2. Download UCF_CC_50 Dataset from
 
-http://crcv.ucf.edu/projects/crowdCounting/index.php
+   http://crcv.ucf.edu/projects/crowdCounting/index.php
 
 3. WorldExpo'10 obtained from
-http://www.ee.cuhk.edu.hk/~xgwang/expo.html
 
-The dataset is available, Shanghai Jiao Tong University has the copyright of the dataset. 
-So we contacted Prof. Xie (xierong@sjtu.edu.cn) to get the download link.
+   http://www.ee.cuhk.edu.hk/~xgwang/expo.html
+
+   The dataset is available, Shanghai Jiao Tong University has the copyright of the dataset. 
+   So we contacted Prof. Xie (xierong@sjtu.edu.cn) to get the download link.
 
 The proposed models are trained in a DELL PC station with a GPU Titan XP using Pytorch0.4.0
 
